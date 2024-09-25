@@ -44,7 +44,7 @@ function App() {
     else {
         setMistakes(prev => prev +1)
         setShowError(true)
-        setTimeout(()=>setShowError(false),0.401)
+        setTimeout(()=>setShowError(false),400)
     }
   }
   function resetGame(){
