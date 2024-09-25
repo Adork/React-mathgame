@@ -88,7 +88,7 @@ function ProgressBar (props){
       <div className="box"></div>
       <div className="box"></div>
       <div className="box"></div>
-      <div clasName="box"></div>
+      <div className="box"></div>
       <div className="box"></div>
       <div className="box"></div>
       <div className="box"></div>
